@@ -17,7 +17,7 @@ body{
     height:567px;
     margin:auto;
     background-color:white;
-    background-image:url(images/illustration-hero.svg);
+    background-image:url("images/illustration-hero.svg");
     background-size: 327px, 160px;
     background-repeat: no-repeat;
     border-radius:20px;
